@@ -1,4 +1,4 @@
-{
+
   "name": "aota-market"
   "private": true
   "version": "0.1.0"
@@ -8,7 +8,7 @@
     "lucide-react": "^0.284.0"
     "firebase": "^10.4.0"
     "react-scripts": "5.0.1"
-  }
+  
   "scripts": {
     "start": "react-scripts start"
     "build": "react-scripts build"
